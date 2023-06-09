@@ -1,6 +1,12 @@
+
 primer codigo de la app 
 Commit en branch 2
-Otro commit en NEW_B
-Por que no
-La discordia
-MAs discordia
+Commit en linea
+Segundo Commit en linea
+Commit en branch main
+
+Commit en branch NEW_C
+
+esto no esta en github
+Commit en branch NEW_C
+
