@@ -11,4 +11,3 @@ Commit en branch NEW_C
 esto no esta en github
 Commit en branch CONFLICT
 
-nuevo cambio para revert
