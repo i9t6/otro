@@ -1,14 +1,5 @@
 solo para probar diff
 
-primer codigo de la app 
-Commit en branch 2
-Commit en linea
-Segundo Commit en linea
-Commit en branch main
+123123
+123123
 
-Commit en branch NEW_C
-
-esto no esta en github
-Commit en branch CONFLICT
-
-cambio de branch feature
