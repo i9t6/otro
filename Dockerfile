@@ -1,3 +1,3 @@
-FROM ubuntu
-RUN apt-get install nmap
+FROM alpine3.10
+
 
