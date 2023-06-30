@@ -1,3 +1,3 @@
-FROM alpine3.10
+FROM alpine
 
 
